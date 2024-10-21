@@ -1,15 +1,17 @@
 # chat_app
-
-A new Flutter project.
-
+Chat App project 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+  ![Alt text](https://res.cloudinary.com/dbtdhlolu/image/upload/v1729530784/WhatsApp_Image_2024-10-21_at_19.54.32_2388fc41_yoozh9.jpg)
+  
+  ![Alt text](https://res.cloudinary.com/dbtdhlolu/image/upload/v1729530784/WhatsApp_Image_2024-10-21_at_19.54.32_0970caad_wvxaup.jpg)
+  ![Alt text](https://res.cloudinary.com/dbtdhlolu/image/upload/v1729530784/WhatsApp_Image_2024-10-21_at_19.54.32_f3c95e62_arvge9.jpg)
+  ![Alt text](https://res.cloudinary.com/dbtdhlolu/image/upload/v1729530784/WhatsApp_Image_2024-10-21_at_19.54.33_2ce8dcc3_dlrwp0.jpg)
+  ![Alt text](https://res.cloudinary.com/dbtdhlolu/image/upload/v1729530784/WhatsApp_Image_2024-10-21_at_19.54.33_a60950d2_xcphcq.jpg)
+  ![Alt text](https://res.cloudinary.com/dbtdhlolu/image/upload/v1729530784/WhatsApp_Image_2024-10-21_at_19.54.33_efc2a1fd_frnmwr.jpg)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
